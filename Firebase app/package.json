@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase": "^9.8.4",
+    "uid": "^2.0.0"
+  }
+}
